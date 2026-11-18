@@ -1,0 +1,33 @@
+body{
+	font-family: Comic Sans MS;
+	background-color: lightgreen;
+}
+
+.section{
+	text-align: center;
+	color: red;
+}
+
+.section1{
+	text-align: center;
+	color: blue;
+}
+
+.section2{
+	color: red;
+}
+
+#holiday{
+	color: #006400;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.section3{
+	color: #DC143C;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h1{
+	
